@@ -1,4 +1,4 @@
-To use this download math2comp.py put it in the same directory as the python file you want to use it in and type `import math2comp` then you can use it's convertToFunction() method by typing `math2comp.convertToFunction(function)` the converToFunction method takes a string in the form of a mathematical function for example I used a function I made to calculate how many months have passed between to dates for example
+To use this download math2comp.py put it in the same directory as the python file you want to use it in and type `import math2comp` then you can use it's convertToFunction() method by typing `math2comp.convertToFunction(function)` the convertToFunction method takes a string in the form of a mathematical function for example I used a function I made to calculate how many months have passed between to dates for example
 
 `>>> import math2comp`
 
