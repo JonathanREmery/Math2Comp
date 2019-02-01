@@ -10,7 +10,7 @@ To use this download math2comp.py put it in the same directory as the python fil
 
 `>>>`
 
-As you can see it worked surroung the math2comp.converToFunction in exec to actually make a python function out of it.
+As you can see it worked surroundinh the math2comp.convertToFunction in exec to actually make a python function out of it.
 If you want to see what it will be executing you can print what math2comp.convertToFunction returns for example.
 
 `>>> import math2comp`
